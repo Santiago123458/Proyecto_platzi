@@ -12,3 +12,6 @@ primero empezare por los cursos que ya e realizado en este gran proyecto:
  Esto demuestra mi avance en plazi el dia 21/04/2022 
  Gracias platzi
 
+ CURSOS QUE ESTAN EN PROCESO:
+ *Curso Profesional de Git y GitHub
+
