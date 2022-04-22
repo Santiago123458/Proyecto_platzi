@@ -2,3 +2,5 @@ Esta es una pagina que creamos en un curso de platzi
 Tambien agregamos una CABECERA
 Tambien creamos branch = (ramas)
 fecha (21/04/2022)
+Hola este es el pull request
+
