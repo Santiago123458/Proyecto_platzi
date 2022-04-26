@@ -12,7 +12,8 @@ primero empezare por los cursos que ya e realizado en este gran proyecto:
 >* Curso Profesional de Git y GitHub
  >* Esto demuestra mi avance en plazi el dia 21/04/2022 
   * Gracias platzi
+  
   # CURSOS QUE ESTAN EN PROCESO :owl: :
-  * <strong>curso de tecnologia para gerentes y directores</strongCurso>
+* <strong> curso de tecnologia para gerentes y directores :earth_americas:</strongCurso>
  [![Platzi](https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")](http://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")
 # GRACIAS 
