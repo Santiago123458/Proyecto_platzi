@@ -11,7 +11,8 @@ primero empezare por los cursos que ya e realizado en este gran proyecto:
 >* Curso Práctico de Análisis Técnico de Mercados Financieros
 >* Curso Profesional de Git y GitHub
 >* curso de tecnologia para gerentes y directores
- >* Esto demuestra mi avance en plazi el dia 21/04/2022 
+>*  Curso de diseño para developers :eye:
+ >* Esto demuestra mi avance en plazi el dia 30/04/2022 
   * Gracias platzi
   
   # CURSOS QUE ESTAN EN PROCESO :owl: :
