@@ -16,7 +16,6 @@ primero empezare por los cursos que ya e realizado en este gran proyecto:
   * Gracias platzi
   
   # CURSOS QUE ESTAN EN PROCESO :owl: :
-* <strong> Curso de diseño para developers :eye:</strongCurso>
 * <strong>curso definitivo de html y css :technologist:</strong>
  [![Platzi](https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")](http://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")
 # GRACIAS 
