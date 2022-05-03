@@ -1,7 +1,18 @@
 body
 {
-    color: palevioletred;
-    background-color: blue;
+    background-color: green;
     text-align: center;
     font-family: "Arial";
+    color: white;
+}
+header
+{
+    background-color: #58FF23;
+    color: black;
+    text-align: center;
+}
+img
+{
+    height:100px;
+    width:150px;
 }
