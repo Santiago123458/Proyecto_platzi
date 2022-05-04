@@ -1,12 +1,58 @@
 body
 {
-    background-color: aquamarine;
+    background-color: #7B10B0;
 }
-h1
+.titulo
 {
     text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    padding-top: 40px;
 }
-form
+.forma_1
 {
     text-align: center;
+    color: aliceblue;
+    padding-top: 20px;
+    background-color: aliceblue;
+    margin-left: 200px;
+    margin-top: 60px;
+    margin-right: 200px;
+    padding-bottom:300px;
+    border-radius: 50px;
+}
+.label_email
+{
+    border-radius: 30px;
+    border-color: #17FC8A;
+    margin-bottom: 20px;
+    color: black;
+}
+.label_password
+{
+    border-radius: 30px;
+    border-color: #17FC8A;
+    margin-bottom: 20px;
+    color: black;
+}
+.label_country
+{
+    border-radius: 30px;
+    border-color: #17FC8A;
+    margin-bottom: 20px;
+    text-align: center;
+    color: black;
+}
+.input_send
+{
+    border-radius: 40px;
+    font-size: 30px;
+    background-color: #19B065;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.input_send:hover
+{
+    background-color: #7B10B0;
 }

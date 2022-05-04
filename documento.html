@@ -10,23 +10,23 @@
 </head>
 <body>
     <header> 
-        <h1>Iniciar sesion </h1>
+        <h1 class="titulo">Iniciar sesion </h1>
     </header>
     <main>
-        <form action="">
+        <form action="" class="forma_1">
             <label for="email">
                 <span>correo</span>
-                <input type="email" name="email" id="email" placeholder="ingresa tu correo" autocomplete="email" required>
+                <input class="label_email" type="email" name="email" id="email" placeholder="ingresa tu correo" autocomplete="email" required>
             </label>
             <br>
-            <label for="password">
+            <label for="password" >
                 <span>contraseña</span>
-                <input type="password" name="password" id="password" placeholder="ingresa tu contraseña" autocomplete="new-password" required>
+                <input class="label_password" type="password" name="password" id="password" placeholder="ingresa tu contraseña" autocomplete="new-password" required>
             </label>
             <br>
-            <label for="country">
+            <label for="country" class="label_country">
                 <span>ingresa tu pais</span>
-                <input list="country" name="country" autocomplete="country" required>
+                <input class="label_country" list="country" name="country" autocomplete="country" required>
                 <datalist id="country">
                     <option value="colombia"></option>
                     <option value="brazil"></option>
@@ -37,7 +37,7 @@
                 </datalist>
             </label>
             <br>
-            <input type="submit" name="Ingresar" value="ingresa"> 
+            <input type="submit" name="Ingresar" value="ingresa" class="input_send"> 
         </form>
     </main>
 
