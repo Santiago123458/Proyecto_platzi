@@ -16,43 +16,38 @@ body
     color: aliceblue;
     padding-top: 20px;
     background-color: aliceblue;
-    margin-left: 200px;
+    margin-left: 600px;
     margin-top: 60px;
-    margin-right: 200px;
-    padding-bottom:300px;
+    margin-right: 600px;
+    padding-bottom:100px;
     border-radius: 50px;
 }
-.label_email
+.forma_1 input   
 {
-    border-radius: 30px;
-    border-color: #17FC8A;
-    margin-bottom: 20px;
-    color: black;
-}
-.label_password
-{
-    border-radius: 30px;
-    border-color: #17FC8A;
-    margin-bottom: 20px;
-    color: black;
-}
-.label_country
-{
-    border-radius: 30px;
-    border-color: #17FC8A;
-    margin-bottom: 20px;
+    border-radius: 10px;
+    padding-top:10px;
     text-align: center;
+    border-color: #19B065;
     color: black;
+    margin-bottom: 12px;
 }
-.input_send
+.forma_1 h2 
 {
-    border-radius: 40px;
-    font-size: 30px;
-    background-color: #19B065;
-    padding-left: 30px;
-    padding-right: 30px;
+    color: black;
+    text-align: center;
+    font-family: arial,sans-serif;
+    font-size:22px;
 }
-.input_send:hover
+.forma_1 button
 {
-    background-color: #7B10B0;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+.forma_1 button:hover
+{
+    background-color: green;
 }
