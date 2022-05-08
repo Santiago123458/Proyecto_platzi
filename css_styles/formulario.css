@@ -18,12 +18,13 @@ body
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 7.2rem;
-    margin-top: 2%;
+    margin: 2% 0rem 5.2rem 0rem;
 }
 main
 {
     margin: auto;
     width: 100%;
+    min-width: 500px;
     height: 30%;
 }
 .forma_1
@@ -31,7 +32,8 @@ main
     margin: auto;
     width: 35%;
     min-width: 500px;
-    height: 100%;
+    min-height: 300px;
+    max-height: 600px;
     text-align: center;
     background-color: aliceblue;
     border-radius: 50px;
@@ -81,4 +83,5 @@ main
 .box-fotter p{
     color: aliceblue;
     font-size: 2.0rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
