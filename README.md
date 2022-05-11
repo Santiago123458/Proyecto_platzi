@@ -12,10 +12,11 @@ primero empezare por los cursos que ya e realizado en este gran proyecto:
 >* Curso Profesional de Git y GitHub
 >* curso de tecnologia para gerentes y directores
 >*  Curso de diseño para developers :eye:
+>* curso definitivo de html y css :technologist:
  >* Esto demuestra mi avance en plazi el dia 30/04/2022 
   * Gracias platzi
   
   # CURSOS QUE ESTAN EN PROCESO :owl: :
-* <strong>curso definitivo de html y css :technologist:</strong>
+* <strong>curso flujo de desarrollo moderno codestream :technologist:</strong>
  [![Platzi](https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")](http://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg "Platzi")
 # GRACIAS 
