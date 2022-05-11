@@ -1,24 +1,51 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <link rel="stylesheet" href="css_styles/styles.css"/>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BTL</title>
+    <meta name="description" content="hola este es el formulario de prueba">
+    <link rel="stylesheet" href="./css_styles/formulario.css">
+    <title>formulario</title>
 </head>
 <body>
-    <h1>ESTE ES EL TITULO</h1>
-    <p>Hola bienvenido a la pagina de cotizaciones de bagu medios</p>
-    <p>Esta es la segunda rama que usaremos en git</p>
-    <h2>HOLA YO SOY LA CABECERA</h2>
-    <p>Vamos por buen camino!!</p>
-    <br>
-    <p>AUN DEBO APRENDER A USAR HTML ESTOY CHIQUITO</p>>
-    
-    <div class="header"
-        <p>Esta es la prueba de stash</p>
-        AMO PLATZI.COM
+    <header> 
+        <h1 class="titulo">Iniciar sesion </h1>
+    </header>
+    <main>
+        <form action="" class="forma_1">
+            <label for="email">
+                <h2>Ingresar correo</h2>
+                <input class="label_email" type="email" name="email" id="email" placeholder="ingresa tu correo" autocomplete="email" required>
+            </label>
+            <br>
+            <label for="password" >
+                <h2>Ingresar contraseña</h2>
+                <input class="label_password" type="password" name="password" id="password" placeholder="ingresa tu contraseña" autocomplete="new-password" required>
+            </label>
+            <br>
+            <label for="country" class="label_country">
+                <h2>Selelecciona tu pais</h2>
+                <input class="label_country" list="country" name="country" autocomplete="country" required>
+                <datalist id="country">
+                    <option value="colombia"></option>
+                    <option value="brazil"></option>
+                    <option value="estados unidos"></option>
+                    <option value="mexico"></option>
+                    <option value="chile"></option>
+                    <option value="argentina"></option>
+                </datalist>
+            </label>
+            <br>
+            <button type="submit" name="Ingresar">INGRESAR </button>
+            <button type="button" name="Resgistrame" href="https://drive.google.com/drive/folders/1GgNxWSiCQHavzAt19UzOHwTiJicqfJ6s">RESGISTAR </button>
+        </form>
+        <section class="box-fotter">
+            <img src="./assets/bagu.png" alt="logo de la empresa">
+            <p>BAGU MEDIOS</p>
+        </section>
+    </main>
+
     
 </body>
 </html>
